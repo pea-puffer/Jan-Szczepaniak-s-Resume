@@ -1,2 +1,2 @@
-# Jan-Szczepaniak-s-Resume
+# Jan-Szczepaniak-Resume
 First website!
